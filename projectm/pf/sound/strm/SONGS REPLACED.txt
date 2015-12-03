@@ -1,0 +1,26 @@
+The list of songs replaced in Project M 3.6 is as follows:
+
+A01 - Ground Theme (SMB) 		-> 	Metal Mario (Super Smash Bros.)
+A10 - Gritzy Desert           		-> Metal Cavern by MG3
+A13 - Delfino Plaza           		->  Defino's Secret
+A17 - Mario Bros. 			-> 	Fountain of Dreams (Melee)
+A20 - Mario Circuit 			->	Bowser's Castle ver. M
+B09 - 25m BGM				->	Kongo Jungle (Super Smash Bros.)
+C18 - The Hidden Village		->	Hyrule Castle (Super Smash Bros.)
+E05 - Flower Field: Yoshi's Island (Melee)  ->  Yoshi's Island (Melee)
+K07 - Porky's Theme			->	Fourside (Melee)
+N05 - The Roost				->  Title (Animal Crossing) Ver. M
+N06 - Town Hall and Tom Nook's Store 	->  Kicks' Twilite Funk (2:00 a.m.)
+N12 - K.K. Condor  			->  Removed from Smashville and used as Bowser's Victory Theme
+R03 - Hanenbow Ambience        		->      Hanenbow by Garrett Williamson (feat. Adam Kirby and Audio Selah)
+T03 - Opening - Super Smash Bros. Melee	->	Multi Man Melee 2 (Melee)
+W01 - Princess Peach's Castle (Melee)	->	Mushroom Kingdom 2 (Melee)
+W05 - Yoshi's Island (Melee) 		->  Yoshi's Island 64
+W06 - Fountain of Dreams (Melee) 	->	Green Greens (Melee)
+W07 - Green Greens (Melee) 		-> 	Gourmet Race (Super Smash Bros.)
+W15 - Super Mario Bros. 3 (Melee)	-> 	Yoshi's Story (Melee)
+X02 - Menu 1    ->   Menu (Project M)
+X08 - Result Screen			->  Chillin' With the Bros. (Results Display)
+
+
+(If you stumbled upon this, you must be a curious sort! Hope you enjoy Project M!)
