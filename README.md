@@ -16,3 +16,7 @@ Installation:
 4) Say "Yes" to any overwrites 
 
 You're done!
+
+Thank Yous:
+The old PMDT team, for all their hard work
+thedudemonn, for the Lyn Down Special fix
