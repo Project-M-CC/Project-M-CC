@@ -8,5 +8,6 @@ What This Build is NOT: This build is not meant to be the "tournament standard".
 Installation: 
 1) Copy and paste the "projectm" folder in this download onto the root of your SD card 
 2) Copy and paste the "codes" folder to wherever your codes folder is
-2) Say "Yes" to any overwrites 
+3) Copy "gameconfig.txt" to the root of your SD card
+4) Say "Yes" to any overwrites 
 You're done!
