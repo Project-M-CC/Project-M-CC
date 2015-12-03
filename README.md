@@ -3,7 +3,7 @@ This is a repository dedicated to compiling all fixes made to the leaked builds 
 
 Currently it has combined the "Halloween Update" with Knuckles, Lyn, and Isaac from the "Development Build", cosmetic fixes for Knuckles and Lyn, and with fixes to prevent Lyn from crashing with using her alts. 
 
-This build works on Wiis and Dolhpin.
+This build works on Wiis and Dolphin.
 
 Mission Statement: This build is intented to finish the work of the Project M team's development build, and to get a final, unofficial 3.7 build. In order to preserve the current meta, there should be no rebalances to characters that are already in place. This build at the very least, should fix all the bugs and finish Knuckles and Lyndis.
 
