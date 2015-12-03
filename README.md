@@ -19,4 +19,4 @@ You're done!
 
 Thank Yous:
 The old PMDT team, for all their hard work
-thedudemonn, for the Lyn Down Special fix
+Kitsu, for the Lyn Down Special fix
