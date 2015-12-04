@@ -18,5 +18,5 @@ Installation:
 You're done!
 
 Thank Yous:
-The old PMDT team, for all their hard work
-Kitsu, for the Lyn Down Special fix
+* The old PMDT team, for all their hard work
+* Kitsu, for the Lyn Down Special fix
