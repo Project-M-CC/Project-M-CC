@@ -1,5 +1,7 @@
-# Project-M-Dev-Build-Completion
+# Project-M-CC
 This is a repository dedicated to compiling all fixes made to the leaked builds of Project M into version 3.6.
+
+CC stands for "Community Complete/Completion", which means that it's open to whoever wants to help contribute!
 
 Currently it has combined the cosmetics of the Halloween Update with 3.6. It has also added with Knuckles, Lyn, and Isaac from the "Development Build", along with additional cosmetic fixes for Knuckles and Lyn and fixes to prevent Lyn from crashing when using her alts.
 
