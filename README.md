@@ -1,4 +1,6 @@
 # Project-M-CC
+
+[![Join the chat at https://gitter.im/TheOriginalSINe/Project-M-CC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/TheOriginalSINe/Project-M-CC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is a repository dedicated to compiling all fixes made to the leaked builds of Project M into version 3.6.
 
 CC stands for "Community Complete/Completion", which means that it's open to whoever wants to help contribute!
