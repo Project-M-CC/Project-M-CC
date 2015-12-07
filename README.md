@@ -22,9 +22,13 @@ What This Build is NOT: This build is not meant to be the "tournament standard".
 
 You're done!
 
-## Dev discussion channel: 
+## Development discussion channel: 
 
-We've got an official Discord server that you will find at this address : https://discord.gg/0gfdMUkajXaUVpzF
+We have a [Gitter Channel](https://gitter.im/TheOriginalSINe/Project-M-CC#) for development and design discussion and debate.
+
+## Project-M-CC social channel:
+
+We also have an [Official Discord Server](https://discord.gg/0gfdMUkajXaUVpzF) to act as a hub for people interested in the project to socialize.
 
 ## Thank Yous:
 * The PMDT, for all their hard work
