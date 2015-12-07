@@ -11,7 +11,7 @@ Mission Statement: This build is intended to finish the work of the PMDT's devel
 
 What This Build is NOT: This build is not meant to be the "tournament standard". It is simply a group of modders coming together with the common goal of finishing Project M the way it was intended to be. This build is neither a place to add tons of new characters nor rebalance the entire game. Perhaps in the future Isaac can be completed, but as of right now, it's much more important to focus on what finishing what is almost done!
 
-Installation:
+## Installation:
 
 1. Copy the "projectm" folder to the root of your SD card.
 2. Copy the "codes" folder to wherever your codes folder is.
@@ -20,7 +20,11 @@ Installation:
 
 You're done!
 
-Thank Yous:
+## Dev discussion channel: 
+
+We've got an official Discord server that you will find at this address : https://discord.gg/0gfdMUkajXaUVpzF
+
+## Thank Yous:
 * The PMDT, for all their hard work
 * Kitsu, for the Lyn Down Special fix
 * CaliKingz01, Velen, Onii-chan, MandoWolfe, SouthCraft, Boygos, Pavlova and Mattimation with Credit to Nanobuds for the Knuckles Taunts and victory animations found here: http://forums.kc-mm.com/Gallery/BrawlView.php?Number=36398
