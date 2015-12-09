@@ -22,7 +22,13 @@ Currently it has combined the cosmetics of the Halloween Update with the changes
 3. Copy "gameconfig.txt" to the root of your SD card.
 4. Confirm any file overwrites.
 
-You're done!
+## Contributing to the Project:
+
+If you want to help contribute to the build there are a few things you can do:
+
+* Test the current build and look for bugs/issues that directly impact the project goals. If you find a bug, submit an issue in the issue tracker with details about the issue and a suggestion on how it can be fixed.
+
+* Contribute files to the build to address issues. Find an issue in the issue tracker that you can fix, and submit the fix back to the main build. To do so, fork the project (make a copy of your own), make changes/apply a fix, and submit a pull request back to the project (request that your changes get "pulled" into the main build). If you are having trouble, consult the "Contributing to a Project" section of [this guide](https://guides.github.com/activities/contributing-to-open-source/).
 
 ## Development discussion channel: 
 
