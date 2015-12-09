@@ -1,22 +1,44 @@
-# Project-M-Dev-Build-Completion
-This is a repository dedicated to compiling all fixes made to the leaked builds of Project M.
+# Project-M-CC
 
-Currently it has combined the "Halloween Update" with Knuckles, Lyn, and Isaac from the "Development Build", cosmetic fixes for Knuckles and Lyn, and with fixes to prevent Lyn from crashing with using her alts. 
+[![Join the chat at https://gitter.im/TheOriginalSINe/Project-M-CC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/TheOriginalSINe/Project-M-CC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+This is a repository dedicated to compiling and finishing all the content from the leaked builds of Project M.
 
-This build works on Wiis and Dolphin.
+CC stands for "Community Complete/Completion", which means that it's open to whoever wants to help contribute!
 
-Mission Statement: This build is intented to finish the work of the Project M team's development build, and to get a final, unofficial 3.7 build. In order to preserve the current meta, there should be no rebalances to characters that are already in place. This build at the very least, should fix all the bugs and finish Knuckles and Lyndis.
+This build works on Wii and Dolphin.
 
-What This Build is NOT: This build is not meant to be the "tournament standard". It is simply a group of modders coming together with the common goal of finishing Project M the way it was intended to be. This build is not a place to add tons of new characters, nor rebalance the entire game. Perhaps in the future Isaac can be completed, but as of right now, it's much more important to focus on what finishing up on what is almost done than focusing on anything new!
+Mission Statement: This project is intended to finish the work of the PMDT's development builds and create an unofficial build including all of the leaked content. This build will be based off of dev build 3.6.1, with both Knuckles and Lyn included. For those that want it, there is also the necessary files needed to revert the fighters to their 3.6 versions, while keeping all the cosmetic changes from 3.6.1. This includes Snake's new box taunt.
 
-Installation: 
-1. Copy and paste the "projectm" folder in this download onto the root of your SD card 
-2. Copy and paste the "codes" folder to wherever your codes folder is
-3. Copy "gameconfig.txt" to the root of your SD card
-4. Say "Yes" to any overwrites 
+What This Build is NOT: This build is not aiming to be the new "tournament standard". It is simply a group of modders coming together with the common goal of finishing Project M the way it was intended to be. It is also not a new custom content mod. The goal is to stay as true to PMDT's design as possible. This build is neither a place to add tons of new characters nor rebalance the entire game. Perhaps in the future Isaac can be completed, but as of right now, the focus is on finishing what is almost done!
 
-You're done!
+## Progress:
 
-Thank Yous:
-* The old PMDT team, for all their hard work
+Currently it has combined the cosmetics of the Halloween Update with the changes from dev version 3.6.1. It has also added Knuckles, Lyn, and Isaac from the development build with additional cosmetic changes to Knuckles and Lyn, a fix to prevent Lyn from crashing when using her alts and playing stock mode, and Lyn's DownB has been restored.
+
+## Installation:
+
+1. Copy the "projectm" folder to the root of your SD card.
+2. Copy the "codes" folder to wherever your codes folder is.
+3. Copy "gameconfig.txt" to the root of your SD card.
+4. Confirm any file overwrites.
+
+## Contributing to the Project:
+
+If you want to help contribute to the build there are a few things you can do:
+
+* Test the current build and look for bugs/issues that directly impact the project goals. If you find a bug, submit an issue in the issue tracker with details about the issue and a suggestion on how it can be fixed.
+
+* Contribute files to the build to address issues. Find an issue in the issue tracker that you can fix, and submit the fix back to the main build. To do so, fork the project (make a copy of your own), make changes/apply a fix, and submit a pull request back to the project (request that your changes get "pulled" into the main build). If you are having trouble, consult the "Contributing to a Project" section of [this guide](https://guides.github.com/activities/contributing-to-open-source/).
+
+## Development discussion channel: 
+
+We have a [Gitter Channel](https://gitter.im/TheOriginalSINe/Project-M-CC#) for development and design discussion and debate.
+
+## Project-M-CC social channel:
+
+We also have an [Official Discord Server](https://discord.gg/0gfdMUkajXaUVpzF) to act as a hub for people interested in the project to socialize.
+
+## Thank Yous:
+* The PMDT, for all their hard work
 * Kitsu, for the Lyn Down Special fix
+* CaliKingz01, Velen, Onii-chan, MandoWolfe, SouthCraft, Boygos, Pavlova and Mattimation with Credit to Nanobuds for the Knuckles Taunts and victory animations found here: http://forums.kc-mm.com/Gallery/BrawlView.php?Number=36398
