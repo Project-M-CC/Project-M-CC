@@ -15,12 +15,26 @@ What This Build is NOT: This build is not aiming to be the new "tournament stand
 
 Currently it has combined the cosmetics of the Halloween Update with the changes from dev version 3.6.1. It has also added Knuckles, Lyn, and Isaac from the development build with additional cosmetic changes to Knuckles and Lyn, a fix to prevent Lyn from crashing when using her alts and playing stock mode, and Lyn's DownB has been restored.
 
-## Installation:
+## Installation (Homebrew):
 
 1. Copy the "projectm" folder to the root of your SD card.
-2. Copy the "codes" folder to wherever your codes folder is.
+2. Copy the "codes" folder to wherever your codes folder is (usually your SD card).
 3. Copy "gameconfig.txt" to the root of your SD card.
 4. Confirm any file overwrites.
+
+## Installation (Hackless):
+1. Do the above installation
+2. Copy everything from inside the [Hackless] folder into your SD card
+3. Boot up Brawl and and go to the stage editor screen.
+
+## Optional 3.6 Fighters
+If you so choose, you can revert the fighters to their 3.6 versions while keeping all other changes.
+1. Do the hombrew install.
+2. If necessary, do the hackless install
+3. Copy the "projectm" folder inside the [3.6 - Optional] folder to the root of your SD card
+4. Copy the "codes" folder inside the [3.6 - Optional] folder to wherever your codes folder is (usually your SD card).
+5. Confirm any overwrites
+
 
 ## Contributing to the Project:
 
