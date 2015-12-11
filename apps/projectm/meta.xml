@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<app version="1.0">
+		<name>Project M</name>
+		<coder>projectmgame.com</coder>
+		<version>1.12</version>
+		<release_date>201503311159</release_date>
+		<short_description>Project M Launcher</short_description>
+		<long_description>Project M is the premier Brawl modification inspired by Super Smash Bros. Melee's gameplay designed to add rich, technical gameplay to a balanced cast of characters while additionally enhancing the speed of play. Project M employs new codes which seamlessly add in new, universal features to the entire cast to add technical variety to all characters.</long_description>
+	</app>
