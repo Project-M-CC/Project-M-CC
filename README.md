@@ -27,13 +27,18 @@ Currently it has combined the cosmetics of the Halloween Update with the changes
 2. Copy everything from inside the [Hackless] folder into your SD card
 3. Boot up Brawl and and go to the stage editor screen.
 
-## Optional 3.6 Fighters
-If you so choose, you can revert the fighters to their 3.6 versions while keeping all other changes.
-1. Do the hombrew install.
-2. If necessary, do the hackless install
-3. Copy the "projectm" folder inside the [3.6 - Optional] folder to the root of your SD card
-4. Copy the "codes" folder inside the [3.6 - Optional] folder to wherever your codes folder is (usually your SD card).
-5. Confirm any overwrites
+## Optional 3.6 Fighter Revert
+If you so choose, you can revert the fighters to their 3.6 versions and remove extra clone characters while keeping all other changes*.
+1. Do any or all of the other installations
+2. Copy the "projectm" folder inside the [3.6 Fighter Revert - Optional] folder to the root of your SD card
+3. Copy the "codes" folder inside the [3.6 Fighter Revert - Optional] folder to wherever your codes folder is (usually your SD card).
+4. Confirm any overwrites
+
+## Optional 3.6 Menu Revert
+If you so choose, you can revert the menus to their 3.6 versions while keeping all other changes.
+1. Do any or all of the other installations
+2. Copy the "projectm" folder inside the [3.6 Menu Revert - Optional] folder to the root of your SD card
+3. Confirm any overwrites
 
 
 ## Contributing to the Project:
