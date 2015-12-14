@@ -15,10 +15,11 @@ What This Build is NOT: This build is not aiming to be the new "tournament stand
 
 ## Progress:
 
-Currently it has combined the cosmetics of the Halloween Update with the changes from dev version 3.6.1. It has also added Knuckles, Lyn, and Isaac from the development build with additional cosmetic changes to Knuckles and Lyn, a fix to prevent Lyn from crashing when using her alts and playing stock mode, and Lyn's DownB has been restored.
+Currently it has combined the cosmetics of the Halloween Update with the changes from dev version 3.6.1. It has also added Knuckles, Lyn, and Isaac from the development build with additional cosmetic changes to Knuckles and Lyn and numerous bugfixes for both of their movesets.
 
 ## Installation (Homebrew):
 
+1. If this is your first time installing Project M Homebrew, copy the "apps" folder to the root of your SD card.
 1. Copy the "projectm" folder to the root of your SD card. Make sure you copy the "projectm" folder that has a "pf" folder inside, not the "projectm" folder contained in the "apps" folder.
 2. Copy the "codes" folder to wherever your codes folder is (usually your SD card).
 3. Copy "gameconfig.txt" to the root of your SD card.
@@ -26,7 +27,7 @@ Currently it has combined the cosmetics of the Halloween Update with the changes
 
 ## Installation (Hackless):
 
-1. Do the above installation (Homebrew).
+1. Do the above installation (Homebrew). You can skip copying over the "apps" folder.
 2. Copy everything from inside the [Hackless] folder onto the root of your SD card.
 3. Boot up Brawl and and go to the stage editor screen.
 
