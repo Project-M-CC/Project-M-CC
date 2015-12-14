@@ -19,15 +19,15 @@ Currently it has combined the cosmetics of the Halloween Update with the changes
 
 ## Installation (Homebrew):
 
-1. Copy the "projectm" folder to the root of your SD card.
+1. Copy the "projectm" folder to the root of your SD card. Make sure you copy the "projectm" folder that has a "pf" folder inside, not the "projectm" folder contained in the "apps" folder.
 2. Copy the "codes" folder to wherever your codes folder is (usually your SD card).
 3. Copy "gameconfig.txt" to the root of your SD card.
 4. Confirm any file overwrites.
 
 ## Installation (Hackless):
 
-1. Do the above installation
-2. Copy everything from inside the [Hackless] folder into your SD card
+1. Do the above installation (Homebrew).
+2. Copy everything from inside the [Hackless] folder onto the root of your SD card.
 3. Boot up Brawl and and go to the stage editor screen.
 
 ## Optional 3.6 Fighter Revert
