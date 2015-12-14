@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectm>
+  <game>
+    <config />          
+  </game>
+  <launcher>
+    <config>
+      <global>
+        <useGCPads>true</useGCPads>
+        <useWiiPads>true</useWiiPads>
+        <useNetwork>true</useNetwork>
+        <useSoundEffects>true</useSoundEffects>
+        <useMusic>true</useMusic>		
+      </global>
+      <wii />
+      <dolphin>
+        <!-- Use of Audio on Dolphin requires LLE -->
+        <useSoundEffects>false</useSoundEffects>
+        <useMusic>false</useMusic>
+      </dolphin>
+    </config>
+  </launcher>
+</projectm>
