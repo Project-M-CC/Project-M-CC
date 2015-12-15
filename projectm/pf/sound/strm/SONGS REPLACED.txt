@@ -1,27 +1,27 @@
 The list of songs replaced in Project M 3.6 is as follows:
 
-A01 - Ground Theme (Super Mario Bros.)        -> 	Metal Battle (Melee)
-A02 - Underground Theme (Super Mario Bros.)   ->	Metal Cavern (by MG3)
+A01 - Ground Theme (Super Mario Bros.)        ->  Metal Battle (Melee)
+A02 - Underground Theme (Super Mario Bros.)   ->  Metal Cavern (by MG3)
 A10 - Gritzy Desert                           ->  Metal Cavern (by MG3)
 A13 - Delfino Plaza                           ->  Defino's Secret
-A16 - Ground Theme 2 (Super Mario Bros.)      ->	Metal Mario (N64)
-A17 - Mario Bros.                             -> 	Fountain of Dreams (Melee)
-A20 - Mario Circuit                           ->	Bowser's Castle ver. M
-B09 - 25m BGM                                 ->	Kongo Jungle (N64)
-C18 - The Hidden Village                      ->	Hyrule Castle (N64)
+A16 - Ground Theme 2 (Super Mario Bros.)      ->  Metal Mario (N64)
+A17 - Mario Bros.                             ->  Fountain of Dreams (Melee)
+A20 - Mario Circuit                           ->  Bowser's Castle ver. M
+B09 - 25m BGM                                 ->  Kongo Jungle (N64)
+C18 - The Hidden Village                      ->  Hyrule Castle (N64)
 E05 - Flower Field                            ->  Yoshi's Island (Melee)
-K07 - Porky's Theme                           ->	Fourside (Melee)
-M01 - WarioWare, Inc.                         ->	Bad Mario (by Phonetic Hero)
+K07 - Porky's Theme                           ->  Fourside (Melee)
+M01 - WarioWare, Inc.                         ->  Bad Mario (by Phonetic Hero)
 N05 - The Roost                               ->  Title (Animal Crossing) Ver. M
 N06 - Town Hall and Tom Nook's Store          ->  Kicks' Twilite Funk (2:00 a.m.)
 N12 - K.K. Condor                             ->  Victory! (Bowser) [No longer plays on Smashville]
 R03 - Hanenbow Ambience                       ->  Hanenbow Remix by Garrett Williamson (feat. Adam Kirby and Audio Selah)
-T03 - Opening (Super Smash Bros. Melee)       ->	Multi Man Melee 2 (Melee)
-W01 - Princess Peach's Castle (Melee)         ->	Peach's Castle (N64)
+T03 - Opening (Super Smash Bros. Melee)       ->  Multi Man Melee 2 (Melee)
+W01 - Princess Peach's Castle (Melee)         ->  Peach's Castle (N64)
 W05 - Yoshi's Island (Melee)                  ->  Yoshi's Island (N64)
-W06 - Fountain of Dreams (Melee)              ->	Green Greens (Melee)
-W07 - Green Greens (Melee)                    -> 	Dream Land (N64)
-W15 - Super Mario Bros. 3 (Melee)             -> 	Yoshi's Story (Melee)
+W06 - Fountain of Dreams (Melee)              ->  Green Greens (Melee)
+W07 - Green Greens (Melee)                    ->  Dream Land (N64)
+W15 - Super Mario Bros. 3 (Melee)             ->  Yoshi's Story (Melee)
 X02 - Menu 1                                  ->  Main Theme (Project M)
 X08 - Results Display Screen                  ->  Chillin' With the Bros.
 
