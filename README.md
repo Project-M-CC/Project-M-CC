@@ -1,6 +1,8 @@
 # Project-M-CC
 
-[![Join the chat at https://gitter.im/TheOriginalSINe/Project-M-CC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/TheOriginalSINe/Project-M-CC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter: TheOriginalSINe/Project-M-CC](https://img.shields.io/gitter/room/TheOriginalSINe/Project-M-CC.svg)](https://gitter.im/TheOriginalSINe/Project-M-CC)
+[![Discord](https://img.shields.io/badge/chat-discord-7289da.svg)](https://discord.gg/0gfdMUkajXaUVpzF)
+
 This is a repository dedicated to compiling and finishing all the content from the leaked builds of Project M.
 
 CC stands for "Community Complete/Completion", which means that it's open to whoever wants to help contribute!
@@ -13,24 +15,47 @@ What This Build is NOT: This build is not aiming to be the new "tournament stand
 
 ## Progress:
 
-Currently it has combined the cosmetics of the Halloween Update with the changes from dev version 3.6.1. It has also added Knuckles, Lyn, and Isaac from the development build with additional cosmetic changes to Knuckles and Lyn, a fix to prevent Lyn from crashing when using her alts and playing stock mode, and Lyn's DownB has been restored.
+Currently it has combined the cosmetics of the Halloween Update with the changes from dev version 3.6.1. It has also added Knuckles, Lyn, and Isaac from the development build with additional cosmetic changes to Knuckles and Lyn and numerous bugfixes for both of their movesets.
 
-## Installation:
+## Installation (Homebrew):
 
-1. Copy the "projectm" folder to the root of your SD card.
-2. Copy the "codes" folder to wherever your codes folder is.
+1. If this is your first time installing Project M Homebrew, copy the "apps" folder to the root of your SD card.
+1. Copy the "projectm" folder to the root of your SD card. Make sure you copy the "projectm" folder that has a "pf" folder inside, not the "projectm" folder contained in the "apps" folder.
+2. Copy the "codes" folder to wherever your codes folder is (usually your SD card).
 3. Copy "gameconfig.txt" to the root of your SD card.
 4. Confirm any file overwrites.
+
+## Installation (Hackless):
+
+1. Do the above installation (Homebrew). You can skip copying over the "apps" folder.
+2. Copy everything from inside the [Hackless] folder onto the root of your SD card.
+3. Boot up Brawl and and go to the stage editor screen.
+
+## Optional 3.6 Fighter Revert
+If you so choose, you can revert the fighters to their 3.6 versions and remove extra clone characters while keeping all other changes.
+
+1. Do any or all of the other installations
+2. Copy the "projectm" folder inside the [3.6 Fighter Revert - Optional] folder to the root of your SD card
+3. Copy the "codes" folder inside the [3.6 Fighter Revert - Optional] folder to wherever your codes folder is (usually your SD card).
+4. Confirm any overwrites
+
+## Optional 3.6 Menu Revert
+
+If you so choose, you can revert the menus to their 3.6 versions while keeping all other changes.
+
+1. Do any or all of the other installations
+2. Copy the "projectm" folder inside the [3.6 Menu Revert - Optional] folder to the root of your SD card
+3. Confirm any overwrites
+
 
 ## Contributing to the Project:
 
 If you want to help contribute to the build there are a few things you can do:
 
 * Test the current build and look for bugs/issues that directly impact the project goals. If you find a bug, submit an issue in the issue tracker with details about the issue and a suggestion on how it can be fixed.
-
 * Contribute files to the build to address issues. Find an issue in the issue tracker that you can fix, and submit the fix back to the main build. To do so, fork the project (make a copy of your own), make changes/apply a fix, and submit a pull request back to the project (request that your changes get "pulled" into the main build). If you are having trouble, consult the "Contributing to a Project" section of [this guide](https://guides.github.com/activities/contributing-to-open-source/).
 
-## Development discussion channel: 
+## Development discussion channel:
 
 We have a [Gitter Channel](https://gitter.im/TheOriginalSINe/Project-M-CC#) for development and design discussion and debate.
 
