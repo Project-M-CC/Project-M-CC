@@ -20,10 +20,10 @@ Currently it has combined the cosmetics of the Halloween Update with the changes
 ## Installation (Homebrew):
 
 1. If this is your first time installing Project M Homebrew, copy the "apps" folder to the root of your SD card.
-1. Copy the "projectm" folder to the root of your SD card. Make sure you copy the "projectm" folder that has a "pf" folder inside, not the "projectm" folder contained in the "apps" folder.
-2. Copy the "codes" folder to wherever your codes folder is (usually your SD card).
-3. Copy "gameconfig.txt" to the root of your SD card.
-4. Confirm any file overwrites.
+2. Copy the "projectm" folder to the root of your SD card. Make sure you copy the "projectm" folder that has a "pf" folder inside, not the "projectm" folder contained in the "apps" folder.
+3. Copy the "codes" folder to wherever your codes folder is (usually your SD card).
+4. Copy "gameconfig.txt" to the root of your SD card.
+5. Confirm any file overwrites.
 
 ## Installation (Hackless):
 
@@ -53,7 +53,7 @@ If you so choose, you can revert the menus to their 3.6 versions while keeping a
 If you want to help contribute to the build there are a few things you can do:
 
 * Test the current build and look for bugs/issues that directly impact the project goals. If you find a bug, submit an issue in the issue tracker with details about the issue and a suggestion on how it can be fixed.
-* Contribute files to the build to address issues. Find an issue in the issue tracker that you can fix, and submit the fix back to the main build. To do so, fork the project (make a copy of your own), make changes/apply a fix, and submit a pull request back to the project (request that your changes get "pulled" into the main build). If you are having trouble, consult the "Contributing to a Project" section of [this guide](https://guides.github.com/activities/contributing-to-open-source/).
+* Contribute files to the build to address issues. Find an issue in the issue tracker that you can fix, and submit the fix back to the main build. To do so, fork the project (make a copy of your own), make changes/apply a fix, and submit a pull request back to the project (request that your changes get "pulled" into the main build). If you are having trouble, consult our guide [here](HowToContribute.md).
 
 ## Development discussion channel:
 
