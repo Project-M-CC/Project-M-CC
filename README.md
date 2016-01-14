@@ -66,4 +66,3 @@ We also have an [Official Discord Server](https://discord.gg/0gfdMUkajXaUVpzF) t
 ## Thank Yous:
 * The PMDT, for all their hard work
 * Kitsu, for the Lyn Down Special fix
-* CaliKingz01, Velen, Onii-chan, MandoWolfe, SouthCraft, Boygos, Pavlova and Mattimation with Credit to Nanobuds for the Knuckles Taunts and victory animations found here: http://forums.kc-mm.com/Gallery/BrawlView.php?Number=36398
