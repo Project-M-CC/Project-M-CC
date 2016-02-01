@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Project-M-CC/Project-M-CC.png?label=ready&title=Ready)](https://waffle.io/Project-M-CC/Project-M-CC)
 # Project-M-CC
 
 [![Gitter: TheOriginalSINe/Project-M-CC](https://img.shields.io/gitter/room/Project-M-CC/Project-M-CC.svg)](https://gitter.im/TheOriginalSINe/Project-M-CC)
