@@ -2,7 +2,7 @@
 
 [![Gitter: TheOriginalSINe/Project-M-CC](https://img.shields.io/gitter/room/Project-M-CC/Project-M-CC.svg)](https://gitter.im/TheOriginalSINe/Project-M-CC)
 [![Discord](https://img.shields.io/badge/chat-discord-7289da.svg)](https://discord.gg/0gfdMUkajXaUVpzF)
-[![HuBoard](https://img.shields.io/badge/issues-huboard-7964CC.svg)](https://huboard.com/Project-M-CC/Project-M-CC)
+[![Stories in Ready](https://badge.waffle.io/Project-M-CC/Project-M-CC.png?label=ready&title=Ready)](https://waffle.io/Project-M-CC/Project-M-CC)
 
 This is a repository dedicated to compiling and finishing all the content from the leaked builds of Project M.
 
