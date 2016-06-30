@@ -24,7 +24,8 @@ Currently it has combined the cosmetics of the Halloween Update with the changes
 2. Copy the "projectm" folder to the root of your SD card. Make sure you copy the "projectm" folder that has a "pf" folder inside, not the "projectm" folder contained in the "apps" folder.
 3. Copy the "codes" folder to wherever your codes folder is (usually your SD card).
 4. Copy "gameconfig.txt" to the root of your SD card.
-5. Confirm any file overwrites.
+5. Get the new alt costumes for Knuckles (it's in a zip folder) and extract it to the Knuckles folder
+6. Confirm any file overwrites.
 
 ## Installation (Hackless):
 
