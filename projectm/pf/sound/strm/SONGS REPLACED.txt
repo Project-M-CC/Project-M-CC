@@ -1,28 +1,29 @@
-The list of songs replaced in Project M 3.6 is as follows:
+The list of songs replaced in Project M 3.61 CC is as follows:
 
-A01 - Ground Theme (SMB) 		-> 	Metal Battle (Super Smash Bros. Melee)
-A02 - Underground Theme (SMB)	->	Metal Cavern (by MG3)
-A13 - Delfino Plaza           		->  Defino's Secret
-A16 - Ground Theme 2 (SMB)		->	Metal Mario (Super Smash Bros.)
-A17 - Mario Bros. 			-> 	Fountain of Dreams (Melee)
-A20 - Mario Circuit 			->	Bowser's Castle ver. M
-B09 - 25m BGM				->	Kongo Jungle (Super Smash Bros.)
-C18 - The Hidden Village		->	Hyrule Castle (Super Smash Bros.)
-E05 - Flower Field: Yoshi's Island (Melee)  ->  Yoshi's Island (Melee)
-K07 - Porky's Theme			->	Fourside (Melee)
-M01 - WarioWare, Inc.		->	Bad Mario (by Phonetic Hero)
-N05 - The Roost				->  Title (Animal Crossing) Ver. M
-N06 - Town Hall and Tom Nook's Store 	->  Kicks' Twilite Funk (2:00 a.m.)
-N12 - K.K. Condor  			->  Removed from Smashville and used as Bowser's Victory Theme
-R03 - Hanenbow Ambience        		->      Hanenbow by Garrett Williamson (feat. Adam Kirby and Audio Selah)
-T03 - Opening - Super Smash Bros. Melee	->	Multi Man Melee 2 (Melee)
-W01 - Princess Peach's Castle (Melee)	->	Mushroom Kingdom 2 (Melee)
-W05 - Yoshi's Island (Melee) 		->  Yoshi's Island 64
-W06 - Fountain of Dreams (Melee) 	->	Green Greens (Melee)
-W07 - Green Greens (Melee) 		-> 	Gourmet Race (Super Smash Bros.)
-W15 - Super Mario Bros. 3 (Melee)	-> 	Yoshi's Story (Melee)
-X02 - Menu 1    ->   Menu (Project M)
-X08 - Result Screen			->  Chillin' With the Bros. (Results Display)
+A01 - Ground Theme (Super Mario Bros.)        ->  Metal Battle (Melee)
+A02 - Underground Theme (Super Mario Bros.)   ->  Metal Cavern (by MG3)
+A10 - Gritzy Desert                           ->  Metal Cavern (by MG3)
+A13 - Delfino Plaza                           ->  Defino's Secret
+A16 - Ground Theme 2 (Super Mario Bros.)      ->  Metal Mario (Super Smash Bros.)
+A17 - Mario Bros.                             ->  Fountain of Dreams (Melee)
+A20 - Mario Circuit                           ->  Bowser's Castle Ver. M
+B09 - 25m BGM                                 ->  Kongo Jungle (Super Smash Bros.)
+C18 - The Hidden Village                      ->  Hyrule Castle (Super Smash Bros.)
+E05 - Flower Field                            ->  Yoshi's Island (Melee)
+K07 - Porky's Theme                           ->  Fourside (Melee)
+M01 - WarioWare, Inc.                         ->  Bad Mario (By Phonetic Hero)
+N05 - The Roost                               ->  Title (Animal Crossing) Ver. M
+N06 - Town Hall and Tom Nook's Store          ->  Kicks' Twilite Funk (2:00 a.m.)
+N12 - K.K. Condor                             ->  Victory! (Bowser) [No longer plays on Smashville]
+R03 - Hanenbow Ambience                       ->  Hanenbow Remix by Garrett Williamson (feat. Adam Kirby and Audio Selah)
+T03 - Opening (Super Smash Bros. Melee)       ->  Multi Man Melee 2 (Melee)
+W01 - Princess Peach's Castle (Melee)         ->  Peach's Castle (Super Smash Bros.)
+W05 - Yoshi's Island (Melee)                  ->  Yoshi's Island (Super Smash Bros.)
+W06 - Fountain of Dreams (Melee)              ->  Green Greens (Melee)
+W07 - Green Greens (Melee)                    ->  Dream Land (Super Smash Bros.)
+W15 - Super Mario Bros. 3 (Melee)             ->  Yoshi's Story (Melee)
+X02 - Menu 1                                  ->  Menu (Project M)
+X08 - Results Display Screen                  ->  Chillin' With the Bros.
 
 
-(If you stumbled upon this, you must be a curious sort! Hope you enjoy Project M!)
+(If you stumbled upon this, you must be a curious sort! Hope you enjoy Project M Community Complete!)
